@@ -17,6 +17,9 @@ The repo isn't representative of my current progress.
 
 ## Assembly (done)
 
+(Nvidia hasn't updated the official repo for a while. Took me a few days to find the correct way to build the containers..)
+
+![image](https://user-images.githubusercontent.com/36319317/225102990-5ca8e3f7-0c9b-49b2-8dbe-2b00d57b7f99.png)
  
 ![image](https://user-images.githubusercontent.com/36319317/225100479-c803b1c0-ae10-40fc-8018-0fafb4cc13b3.png)
 
