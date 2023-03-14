@@ -1,20 +1,26 @@
 # JetBot
 
-<!--[<img src="https://img.shields.io/discord/553852754058280961.svg">](https://discord.gg/Ady6NtF) -->
 
-> Looking for a quick way to get started with JetBot?  Many third party kits are [now available](https://jetbot.org/master/third_party_kits.html)!
+- [Personal project JetBot](#personal-project-jetbot)
+- [Assembly](#assembly)
 
-<img src="../..//wiki/images/jetson-jetbot-illustration_1600x1260.png" height="256">
 
-JetBot is an open-source robot based on NVIDIA Jetson Nano that is
 
-* **Affordable** - Less than $150 add-on to Jetson Nano
-* **Educational** - Tutorials from basic motion to AI based collision avoidance
-* **Fun!** - Interactively programmed from your web browser
+## Personal project JetBot
 
-Building and using JetBot gives the hands on experience needed to create entirely new AI projects.
+Always wanted to do something with my jetbot. I started with the basis from the offical repo  [JetBot documentation](https://jetbot.org)
+(teleoperation, collisions avoidance,etc.). 
 
-To get started, read the [JetBot documentation](https://jetbot.org).
+Now, I'm trying to see if I can integrate voice commands and other stuff 
+
+The repo isn't representative of my current progress. 
+
+## Assembly 
+
+Some images 
+
+https://imgur.com/sYKbtOW
+
 
 ## Get involved
 
