@@ -27,10 +27,15 @@ The repo isn't representative of my current progress.
 
 ![image](https://user-images.githubusercontent.com/36319317/225100610-0b86e68c-250c-42be-a8a7-e145fc49b835.png)
 
+## Video Teleoperation 
+
+- 
+
+
 ## Next steps 
 
-1. Further training for visual recognition and object avoidance 
-2. Explore Amazon AWS Amplify to build an app and see how I could integrate it 
+1. Further training for facial recognition and object avoidance 
+2. Explore Amazon AWS Amplify to build an app and see how I could integrate it (maybe?)
 
 
 ## Official ressources 
