@@ -29,7 +29,7 @@ The repo isn't representative of my current progress.
 
 ## Video Teleoperation 
 
-- 
+- https://youtu.be/GfWfFlX-M74
 
 
 ## Next steps 
