@@ -29,7 +29,10 @@ The repo isn't representative of my current progress.
 
 ## Video Teleoperation 
 
-- https://youtu.be/GfWfFlX-M74
+- I was hard to record this since I don't have a stand for my phone. I had to hold it with one hand and control the robot with the other one.  
+- Every joystick is linked to a wheel. I might change that to make it easier to control the robot. In the meantime : 
+- 
+  https://youtu.be/GfWfFlX-M74
 
 
 ## Next steps 
